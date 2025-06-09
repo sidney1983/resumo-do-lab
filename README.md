@@ -5,3 +5,4 @@ Alterar idioma e layout do menu;
 Aprendi que os serviços estão organizados por categorias;
 Que existe um recurso chamado "Bastions" que é uma rede segura para fazer acesso as máquinas;
 Que é possível (e altamente recomendado) criar um Firewall na nuvem;
+Tudo que está em versão prévia, não possui SLA
